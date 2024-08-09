@@ -1,5 +1,5 @@
 const products = [
-    { id: 1, name: 'Գնդակ', price: 799, image: 'https://catalog.detmir.st/media/jbubjanXhwWQZCLc3Y4FKO_Tzb3ASPbHh76rA5LxVWk=', description: 'High-performance laptop for all your needs.' },
+    { id: 1, name: 'Գնդակ', price: 8, image: 'https://catalog.detmir.st/media/jbubjanXhwWQZCLc3Y4FKO_Tzb3ASPbHh76rA5LxVWk=', description: 'High-performance laptop for all your needs.' },
     { id: 2, name: 'Հեռախոս', price: 499, image: 'https://yerevanmobile.am/media/catalog/product/cache/07720dad39bc68bc6b838050c0f2e34d/y/u/yuiop.jpg', description: 'Stay connected with this sleek smartphone.' },
     { id: 3, name: 'Գլխարկ', price: 199, image: 'https://goggles.su/image/catalog/hats/fedora/bao/dsc00019.jpg', description: 'Enjoy your music with crystal-clear sound.' },
     { id: 4, name: 'աթոռ', price: 449, image: 'https://annihaus.ru/upload/iblock/087/0877447b7ddb31f595ccbaaca9b0d584.jpg', description: 'Keep track of your health and notifications on the go.' },
